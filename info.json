@@ -1,0 +1,10 @@
+{
+  "name": "Specialized_Industry",
+  "version": "0.0.1",
+  "title": "Specialized Industry",
+  "author": "Qfa",
+  "contact": "",
+  "homepage": "",
+  "description": "",
+  "dependencies": ["base >= 0.12.0"]
+}
